@@ -7,6 +7,10 @@ GitHub и Pull request
 <<<<<<< HEAD
 Список группы
 <<<<<<< HEAD
+
+1. Дубов и Ванеев
+=======
+<<<<<<< HEAD
 Никитин А.А
 Софронов Д.А
 Журин Д.В
@@ -20,3 +24,4 @@ GitHub и Pull request
 
 >>>>>>> 4436eeeaa40365bf7b7bb55d6e280c8aaddb0731
 >>>>>>> 35bf7abadd7949f18ec3c435484a6030a9d90ce0
+>>>>>>> 1c38bce7149458e04aa2b1a064a7c2a3d1c249ec
